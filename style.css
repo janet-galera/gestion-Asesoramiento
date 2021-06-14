@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-	background-image: url(images/Blockchain3.jpg);
+	background-image: url(images/blockchain3.jpg);
 	font-family: 'PT Sans', sans-serif;
 	color: rgb(38, 80, 30);
 	font-size: 50px;
@@ -36,7 +36,7 @@ p {
 }
 
 #preferencias { 
-	background-image: url(images/Blockchain.jpg);
+	background-image: url(images/blockchain.jpg);
 	margin: auto;
 	padding: 12px;
 	border: 4px;
